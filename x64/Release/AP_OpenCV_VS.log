@@ -1,0 +1,28 @@
+﻿  main.cpp
+C:\Users\Asus\source\repos\AP_OpenCV_VS\AP_OpenCV_VS\main.cpp(40,53): warning C4244: '=': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=uchar
+          ]
+C:\Users\Asus\source\repos\AP_OpenCV_VS\AP_OpenCV_VS\main.cpp(101,34): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\Asus\source\repos\AP_OpenCV_VS\AP_OpenCV_VS\main.cpp(108,37): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\Asus\source\repos\AP_OpenCV_VS\AP_OpenCV_VS\main.cpp(108,22): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\Asus\source\repos\AP_OpenCV_VS\AP_OpenCV_VS\main.cpp(144,26): warning C4244: '=': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=uchar
+          ]
+  Generating code
+  1 of 112 functions ( 0.9%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  AP_OpenCV_VS.vcxproj -> C:\Users\Asus\source\repos\AP_OpenCV_VS\x64\Release\AP_OpenCV_VS.exe
